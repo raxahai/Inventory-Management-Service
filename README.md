@@ -1,7 +1,7 @@
 # Inventory-Management-Service
 This is a micro-service written using Java Spring Boot which handles CRUD operation for items.
 
-'''
+```
 -> /items-management (GET route)
     -> get the list of items
 
@@ -10,4 +10,4 @@ This is a micro-service written using Java Spring Boot which handles CRUD operat
 
 -> /items-management (POST route)
     -> Delete the items
-'''
+```
